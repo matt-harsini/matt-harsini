@@ -6,6 +6,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mk975025&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&show_icons=true&locale=en" alt="mk975025" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk975025&theme=dracula&hide=html,css&card_width=495&bg_color=1a1b27&title_color=58a6ff&text_color=3abbad&langs_count=5" alt="mk975025" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk975025&show_icons=true&locale=en&layout=compact alt="mk975025" /></p>
 
 
