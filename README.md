@@ -6,5 +6,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk975025&show_icons=true&locale=en" alt="mk975025" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk975025&show_icons=true&locale=en&layout=compact" alt="mk975025" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk975025&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mk975025" /></p>
 
