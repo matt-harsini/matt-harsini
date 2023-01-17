@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matthew Kim</h1>
+<h1 align="center">Hi, I'm Matthew Kim</h1>
 <h3 align="center">Computer Science Major at California State University, Northridge</h3>
 
 <h3 align="left">Languages and Tools:</h3>
