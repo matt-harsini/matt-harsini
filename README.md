@@ -187,7 +187,7 @@
       />
     </a>
   </div>
-  <div style="width: 500px; float: left">
+  <div style="width: 500px; float: center; padding-top: 30px">
     <img
       src="https://github-readme-stats.vercel.app/api?username=mk975025&show_icons=true&theme=merko"
       width="500"
