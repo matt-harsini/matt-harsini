@@ -187,9 +187,14 @@
       />
     </a>
   </div>
-  <img src="https://camo.githubusercontent.com/c496dbb39ae098bda330e76dadd448e415a190f63d2c7842d8cc05be8189ccff/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b79656f752673686f775f69636f6e733d74727565267468656d653d6d65726b6f"
-    width="500"
-    data-canonical-src="https://github-readme-stats.vercel.app/api?username=mk975025&amp;show_icons=true&amp;theme=merko"
-    style="max-width: 100%"
-  />
+  <div style="width: 500px; float: left">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=mk975025&show_icons=true&theme=merko"
+      width="500"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=mk975025&theme=merko"
+      width="500"
+    />
+  </div>
 </body>
