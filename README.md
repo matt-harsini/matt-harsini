@@ -7,5 +7,5 @@
 <div style = "display: flex; flex-direction: column" >
    <img src = "https://github-readme-stats.vercel.app/api?username=mk975025&show_icons=true&theme=merko" width = 500 />
    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mk975025&theme=merko" width = 500 />
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk975025&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mk975025" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mk975025&show_icons=true&locale=en&layout=compact&theme=merko" alt="mk975025"  width = 500/>
 </div>
