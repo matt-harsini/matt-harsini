@@ -14,9 +14,9 @@
     >
       <li>
         🔭 I’m currently working on
-        <a href="https://recipe-search-na.netlify.app">Recipe Search</a>
+        <a href="https://recipe-search-na.netlify.app">Recipe Search</a> and other fullstack projects
       </li>
-      <li>🌱 I’m currently learning the MERN stack and other technologies.</li>
+      <li>🌱 I’m currently learning the MERN stack and other technologies</li>
       <li>💬 Ask me how to center a div</li>
       <li>
         📫 Reach me at
