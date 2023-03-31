@@ -181,7 +181,7 @@
   </div>
   <br/>
   <br/>
-  <div style="width: 500px; float: center; padding-top: 30px">
+  <div style="width: 500px; padding-top: 30px margin-left: auto; margin-right: auto;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=mk975025&show_icons=true&theme=merko"
       width="500"
