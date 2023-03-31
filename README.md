@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://github.com/mk975025/mk975025/blob/main/README.svg">
+		<img src="README.svg" width="1000" height="1000" alt="Click to see the source">
 </div>
