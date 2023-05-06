@@ -17,7 +17,6 @@
         <a href="https://recipe-search-na.netlify.app">Recipe Search</a> and other full stack projects
       </li>
       <li>🌱 I’m currently learning the MERN stack, Three.js, Next.js, and AWS serverless applications.</li>
-      <li>💬 Ask me how to center a div</li>
       <li>
         📫 Reach me at
         <a href="mailto:matthewkimcs@gmail.com">matthewkimcs@gmail.com</a> and
