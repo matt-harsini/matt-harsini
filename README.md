@@ -12,10 +12,6 @@
         margin-top: 16px;
       "
     >
-      <li>
-        🔭 I’m currently working on
-        <a href="https://recipe-search-na.netlify.app">Recipe Search</a> and other full stack projects
-      </li>
       <li>🌱 I’m currently learning the MERN stack, Three.js, Next.js, and AWS serverless applications.</li>
       <li>
         📫 Reach me at
