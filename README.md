@@ -178,10 +178,6 @@
   <br/>
   <div style="width: 500px; padding-top: 30px margin-left: auto; margin-right: auto;">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=matt-harsini&show_icons=true&theme=merko"
-      width="500"
-    />
-    <img
       src="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=merko"
       width="500"
     />
