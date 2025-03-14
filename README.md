@@ -1,6 +1,6 @@
 <body>
   <h1 align="center">Hi 👋, I'm Matthew Kim</h1>
-  <h3 align="center">Computer Science Graduate</h3>
+  <h3 align="center">Software Engineer</h3>
   <div>
     <ul
       style="
@@ -12,7 +12,6 @@
         margin-top: 16px;
       "
     >
-      <li>🌱 I’m currently learning Golang!</li>
       <li>
         📫 Reach me at
         <a href="mailto:matthewkimcs@gmail.com">matthewkimcs@gmail.com</a> and
