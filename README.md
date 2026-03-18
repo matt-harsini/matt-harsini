@@ -14,7 +14,7 @@
     >
       <li>
         📫 Reach me at
-        <a href="mailto:matthewkimcs@gmail.com">matthewkimcs@gmail.com</a> and
+        <a href="mailto:matthewkimcs@gmail.com">matthewkim3004@gmail.com</a> and
         <a href="https://www.linkedin.com/in/matthew-kim-667392206/"
           >Linkedin</a
         >
