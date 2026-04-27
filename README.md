@@ -1,184 +1,76 @@
-<body>
-  <h1 align="center">Hi 👋, I'm Matthew Kim</h1>
-  <h3 align="center">Software Engineer</h3>
-  <div>
-    <ul
-      style="
-        list-style: none;
-        display: flex;
-        flex-direction: column;
-        gap: 15px;
-        margin-bottom: 16px;
-        margin-top: 16px;
-      "
-    >
-      <li>
-        📫 Reach me at
-        <a href="mailto:matthewkimcs@gmail.com">matthewkim3004@gmail.com</a> and
-        <a href="https://www.linkedin.com/in/matthew-kim-667392206/"
-          >Linkedin</a
-        >
-      </li>
-    </ul>
-  </div>
-  <p align="left"></p>
-  <h3 align="center" style="margin-bottom: 16px">Languages and Tools:</h3>
-  <div
-    style="
-      margin: 0 auto;
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      justify-items: center;
-      max-width: 800px;
-    "
-  >
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-        alt="c"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-        alt="figma"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        alt="java"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-        alt="jenkins"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-        alt="nginx"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-        alt="sass"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript"
-        width="40"
-        height="40"
-      />
-    </a>
-  </div>
-  <br/>
-  <br/>
-  <div style="width: 500px; padding-top: 30px margin-left: auto; margin-right: auto;">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=merko"
-      width="500"
-    />
-  </div>
-</body>
+<h1 align="center">Hey, I'm Matthew Kim 👋</h1>
+<h3 align="center">Senior Software Engineer • Real-time & Autonomous Systems</h3>
+
+<p align="center">
+  <a href="mailto:matthewkim3004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/matthew-kim-667392206/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### About Me
+
+I build software for systems where things move, fail, and have to recover gracefully. Day to day, that means **ground control software for unmanned aircraft** — low-level Rust services with the actor pattern, real-time TypeScript frontends, and everything in between.
+
+- 🚁 Currently building **Mosaic UXS** — a modern ground control station in **TypeScript + Rust**
+- 📡 Working with **MAVLink, gRPC, WebRTC, and MPEG-TS** for telemetry and video pipelines
+- 🦀 Concurrent Rust with `tokio`, `mpsc` channels, and `axum`
+- 🌍 Flight operations and field deployments across the US and Europe
+- 🛠️ Previously: legacy C# / WPF ground control, full-stack JavaScript, frontend web
+
+---
+
+### Tech I Reach For
+
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Lit](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Backend & Systems**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-1A1A1A?style=for-the-badge&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-1A1A1A?style=for-the-badge&logo=rust&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matt-harsini&show_icons=true&theme=merko&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=merko&hide_border=true" height="170" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-harsini&layout=compact&theme=merko&hide_border=true&langs_count=8" height="160" alt="Top languages" />
+</p>
