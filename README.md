@@ -73,4 +73,5 @@ I build software for systems where things move, fail, and have to recover gracef
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-harsini&layout=compact&theme=merko&hide_border=true&langs_count=8" height="160" alt="Top languages" />
+  <img src="https://leetcard.jacoblin.cool/matthewk3004?theme=forest&font=Fira%20Code&ext=heatmap" height="220" alt="LeetCode stats" />
 </p>
