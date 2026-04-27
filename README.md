@@ -1,13 +1,16 @@
 <h1 align="center">Hey, I'm Matthew Kim 👋</h1>
-<h3 align="center">Senior Software Engineer • Real-time & Autonomous Systems</h3>
 
 <p align="center">
-  <a href="mailto:matthewkim3004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/matt-harsini">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A6CC30&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer;Real-time+%26+Autonomous+Systems;TypeScript+%E2%80%A2+Rust+%E2%80%A2+C%23;Building+software+for+things+that+fly+%F0%9F%9A%81" alt="What I do" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/matthew-kim-667392206/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=matt-harsini&label=Profile%20views&color=A6CC30&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -67,11 +70,23 @@ I build software for systems where things move, fail, and have to recover gracef
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matt-harsini&show_icons=true&theme=merko&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=merko&hide_border=true" height="170" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matt-harsini&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=merko&hide_border=true" height="180" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-harsini&layout=compact&theme=merko&hide_border=true&langs_count=8" height="160" alt="Top languages" />
-  <img src="https://leetcard.jacoblin.cool/matthewk3004?theme=forest&font=Fira%20Code&ext=heatmap" height="220" alt="LeetCode stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-harsini&layout=compact&theme=merko&hide_border=true&langs_count=8&card_width=480" height="180" alt="Top languages" />
+  <img src="https://leetcard.jacoblin.cool/matthewk3004?theme=dark&font=Fira%20Code&ext=heatmap" height="180" alt="LeetCode stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matt-harsini&theme=react-dark&bg_color=0D1117&hide_border=true&color=A6CC30&line=A6CC30&point=FFFFFF&area=true" alt="Activity graph" />
+</p>
+
+---
+
+### 🐍 Watch the Snake Eat My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matt-harsini/matt-harsini/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
