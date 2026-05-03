@@ -5,7 +5,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A6CC30&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer;Real-time+%26+Autonomous+Systems;TypeScript+%E2%80%A2+Rust+%E2%80%A2+C%23;Building+software+for+things+that+fly+%F0%9F%9A%81" />
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4D7A0D&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer;Real-time+%26+Autonomous+Systems;TypeScript+%E2%80%A2+Rust+%E2%80%A2+C%23;Building+software+for+things+that+fly+%F0%9F%9A%81" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A6CC30&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer;Real-time+%26+Autonomous+Systems;TypeScript+%E2%80%A2+Rust+%E2%80%A2+C%23;Building+software+for+things+that+fly+%F0%9F%9A%81" alt="What I do" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A6CC30&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer;Real-time+%26+Autonomous+Systems;TypeScript+%E2%80%A2+Rust+%E2%80%A2+C%23;Building+software+for+things+that+fly+%F0%9F%9A%81" alt="What I do" width="620" height="60" />
     </picture>
   </a>
 </p>
@@ -74,31 +74,20 @@ I build software for systems where things move, fail, and have to recover gracef
 
 ---
 
-### GitHub Stats
+### Stats
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=matt-harsini&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=matt-harsini&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="180" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=merko&hide_border=true&card_width=460" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=vue&hide_border=true&card_width=460" alt="GitHub streak" width="460" height="200" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=merko&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=vue&hide_border=true" alt="GitHub streak" height="180" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-harsini&layout=compact&theme=merko&hide_border=true&langs_count=8&card_width=480" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-harsini&layout=compact&theme=vue&hide_border=true&langs_count=8&card_width=480" alt="Top languages" height="180" />
-  </picture>
-  <img src="https://leetcard.jacoblin.cool/matthewk3004?theme=light,dark&font=Fira%20Code&ext=heatmap" height="180" alt="LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/matthewk3004?theme=light,dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="460" height="200" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=matt-harsini&theme=react-dark&bg_color=0D1117&hide_border=true&color=A6CC30&line=A6CC30&point=FFFFFF&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=matt-harsini&theme=minimal&bg_color=FFFFFF&hide_border=true&color=4D7A0D&line=4D7A0D&point=000000&area=true" alt="Activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=matt-harsini&theme=minimal&bg_color=FFFFFF&hide_border=true&color=4D7A0D&line=4D7A0D&point=000000&area=true" alt="Activity graph" width="920" height="320" />
   </picture>
 </p>
 
@@ -109,6 +98,6 @@ I build software for systems where things move, fail, and have to recover gracef
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matt-harsini/matt-harsini/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/matt-harsini/matt-harsini/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/matt-harsini/matt-harsini/output/github-contribution-grid-snake.svg" alt="Snake animation" width="920" height="180" />
   </picture>
 </p>
