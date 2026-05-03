@@ -78,7 +78,7 @@ I build software for systems where things move, fail, and have to recover gracef
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=merko&hide_border=true&card_width=440" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=vue&hide_border=true&card_width=440" alt="GitHub streak" width="440" height="180" />
   </picture>
-  <img src="https://leetcard.jacoblin.cool/matthewk3004?theme=light,dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="440" height="180" />
+  <img src="https://leetcard.jacoblin.cool/matthewk3004?theme=light,forest&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="440" height="180" />
 </p>
 
 <p align="center">
