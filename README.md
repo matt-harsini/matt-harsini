@@ -11,9 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:matthewkim3004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/matthew-kim-667392206/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -78,16 +75,16 @@ I build software for systems where things move, fail, and have to recover gracef
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=merko&hide_border=true&card_width=460" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=vue&hide_border=true&card_width=460" alt="GitHub streak" width="460" height="200" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=merko&hide_border=true&card_width=440" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=matt-harsini&theme=vue&hide_border=true&card_width=440" alt="GitHub streak" width="440" height="180" />
   </picture>
-  <img src="https://leetcard.jacoblin.cool/matthewk3004?theme=light,dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="460" height="200" />
+  <img src="https://leetcard.jacoblin.cool/matthewk3004?theme=light,dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="440" height="180" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=matt-harsini&theme=react-dark&bg_color=0D1117&hide_border=true&color=A6CC30&line=A6CC30&point=FFFFFF&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=matt-harsini&theme=minimal&bg_color=FFFFFF&hide_border=true&color=4D7A0D&line=4D7A0D&point=000000&area=true" alt="Activity graph" width="920" height="320" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=matt-harsini&theme=react-dark&bg_color=0D1117&hide_border=true&color=A6CC30&line=A6CC30&point=FFFFFF&area=true&radius=16" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=matt-harsini&bg_color=F6F8FA&hide_border=true&color=4D7C0F&line=4D7C0F&point=4D7C0F&area=true&radius=16" alt="Activity graph" width="920" height="320" />
   </picture>
 </p>
 
